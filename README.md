@@ -1,4 +1,4 @@
-# AJAX Based CRUD PHP Application
+# CRUD PHP AJAX APP
 
 This repository contains a **Core PHP + MySQL CRUD application** implemented using **AJAX**.
 The complete functionality is handled using **only two PHP files** for simplicity and clarity.
